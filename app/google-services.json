@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378305646897",
+    "project_id": "mycloudmessagetest",
+    "storage_bucket": "mycloudmessagetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378305646897:android:133137a9a09ecfa4da2010",
+        "android_client_info": {
+          "package_name": "uz.umarxon.firebasecloudmessagefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378305646897-e1tjd0aln27aldhl7omefeupfo3atgno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IEiR3838xUmhjVkYmZYuvR51E2T-0rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378305646897-e1tjd0aln27aldhl7omefeupfo3atgno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
